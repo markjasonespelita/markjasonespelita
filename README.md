@@ -43,9 +43,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Librify Super App**  
-  Library & task management system  
-  🔗 https://github.com/mjespelita/librify-super-app-online
+- 🔹 **Zyphor OS**  
+  Zyphor is a custom Linux distribution built on top of the powerful foundations of Kali Linux and Debian.  
+  🔗 https://github.com/mjespelita/zyphor_os
 
 ---
 
