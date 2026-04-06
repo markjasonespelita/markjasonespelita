@@ -45,7 +45,7 @@
 ## 📌 Featured Projects
 - 🔹 **Zyphor OS**  
   Zyphor is a custom Linux distribution built on top of the powerful foundations of Kali Linux and Debian.  
-  🔗 https://github.com/mjespelita/zyphor_os
+  🔗 https://github.com/markjasonespelita/zyphor_os
 
 ---
 
