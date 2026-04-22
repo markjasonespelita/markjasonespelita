@@ -39,24 +39,18 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 **Distro Building & Packaging**
-- Custom Linux distribution development (live ISO, `live-build`, `debootstrap`)
+- Custom Linux distribution operating systen development using Kali Linux Live Build Scripts (live ISO, `live-build`, `debootstrap`)
 - APT package management & custom repository hosting
 - `.deb` package creation and pool/registry management
 - GRUB bootloader configuration & theming
 - Systemd service creation and management
 
 **Linux Filesystems**
-- ext4, Btrfs, XFS, tmpfs, overlayfs
-- LVM (Logical Volume Manager) — PV, VG, LV management
 - Disk partitioning with `fdisk`, `parted`, `gparted`
-- Mount management (`/etc/fstab`, bind mounts, loop devices)
-- File permissions, ACLs, and ownership management
+- File permissions, and ownership management
 
 **System Administration**
 - Shell scripting (Bash) for automation and system tasks
-- Process management (`systemctl`, `journalctl`, `ps`, `top`, `htop`)
-- Networking — `ip`, `netstat`, `ufw`, `iptables`, `nmcli`
-- User and group management
 - Cron jobs and task scheduling
 
 ### Platforms & CMS
