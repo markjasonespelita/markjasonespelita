@@ -1,18 +1,14 @@
 # 👋 Hi, I'm Mark Jason
-
 🚀 Full-Stack Developer | Laravel | JavaScript | MySQL  
 💡 Building scalable systems and modern web apps
-
 ---
-
 ## 🧑‍💻 About Me
 - 🔭 Currently working on **Librify IT Solutions** as Full Stack Web Developer / Programmer
 - 🛠 Backend-focused with Laravel & MySQL
+- 🐧 Passionate about Linux systems, custom distro building & low-level OS tinkering
 - 🎯 Interested in clean architecture & automation
 - 🌱 Always learning new tech
-
 ---
-
 ## ⚙️ Technical Skills
 
 ### Backend & Frameworks
@@ -35,24 +31,49 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+### 🐧 Linux & Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+**Distro Building & Packaging**
+- Custom Linux distribution development (live ISO, `live-build`, `debootstrap`)
+- APT package management & custom repository hosting
+- `.deb` package creation and pool/registry management
+- GRUB bootloader configuration & theming
+- Systemd service creation and management
+
+**Linux Filesystems**
+- ext4, Btrfs, XFS, tmpfs, overlayfs
+- LVM (Logical Volume Manager) — PV, VG, LV management
+- Disk partitioning with `fdisk`, `parted`, `gparted`
+- Mount management (`/etc/fstab`, bind mounts, loop devices)
+- File permissions, ACLs, and ownership management
+
+**System Administration**
+- Shell scripting (Bash) for automation and system tasks
+- Process management (`systemctl`, `journalctl`, `ps`, `top`, `htop`)
+- Networking — `ip`, `netstat`, `ufw`, `iptables`, `nmcli`
+- User and group management
+- Cron jobs and task scheduling
+
 ### Platforms & CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-000000)
 ![ClickFunnels](https://img.shields.io/badge/ClickFunnels-1A73E8)
 
 ---
-
 ## 📌 Featured Projects
 - 🔹 **Zyphor OS**  
   Zyphor is a custom Linux distribution built on top of the powerful foundations of Kali Linux and Debian.  
   🔗 https://github.com/markjasonespelita/zyphor_os
 
 ---
-
 ## 📫 Connect With Me
 - 💼 Facebook: _[(Click Here)](https://www.facebook.com/mark.jason.penote.espelita/)_
 - 📧 Email: _(markjasonespelita@gmail.com)_
 
 ---
-
 ⭐ *Thanks for visiting my profile!*
