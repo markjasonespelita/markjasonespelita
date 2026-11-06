@@ -9,3 +9,4 @@
 * A community-driven, Linux-based operating system.
 * Provides convenient, reliable, and general-purpose computing environment.
 * An OS with integrated productivity tooling.
+## Know more about me [here](https://github.com/markjasonespelita/markjasonespelita/wiki).
