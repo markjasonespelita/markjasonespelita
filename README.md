@@ -1,4 +1,4 @@
-## IT Programmer at [Librify IT Solution](https://www.facebook.com/LibrifyITS)
+## IT Programmer at [Librify IT Solutions](https://www.facebook.com/LibrifyITS)
 * DICT Network Monitoring System - Northern Samar 1st and 2nd District
 * Linux Server Administrator/Maintainer
 * System Maintainer
