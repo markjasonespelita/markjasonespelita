@@ -7,5 +7,5 @@
 * Ride Hailing App
 ## Creator and Lead OS Maintainer of Zyphor Operating System
 * A community-driven, Linux-based operating system.
-* Convenient, reliable, and general-purpose computing environment.
+* Provides convenient, reliable, and general-purpose computing environment.
 * An OS with integrated productivity tooling.
