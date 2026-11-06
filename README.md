@@ -1,3 +1,2 @@
-## Hi there 👋
-
-I'm just a simple and shy programmer.
+## IT Programmer at Librify IT Solution
+## Mobile App Maintainer at GoCart Delivery Services
